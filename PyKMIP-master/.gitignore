@@ -1,0 +1,14 @@
+.cache
+.coverage
+.idea
+.project
+.pydevproject
+.pytest_cache
+.tox
+
+*.egg-info
+*.pyc
+
+build
+dist
+htmlcov

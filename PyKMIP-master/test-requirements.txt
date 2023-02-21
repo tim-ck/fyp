@@ -1,0 +1,10 @@
+coverage
+pytest
+flake8
+testtools
+fixtures
+mock
+slugs
+sphinx
+PyYAML<=5.2
+bandit==1.5.1
