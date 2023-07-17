@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">fypmobile</string>
+    <string name="servicedesc">test</string>
+    <string name="aiddescription">test</string>
 </resources>

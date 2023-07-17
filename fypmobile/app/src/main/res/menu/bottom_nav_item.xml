@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnUnlockDoor"
+        android:icon="@drawable/baseline_lock_open_24"
+        android:title="Unlock The Door" />
+    <item
+        android:id="@+id/btnAddKey"
+        android:icon="@drawable/baseline_add_24"
+        android:title="Key Management" />
+</menu>
